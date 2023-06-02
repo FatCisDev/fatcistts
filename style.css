@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(179, 179, 179);
+}
+
+.wrapper{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+input{
+    height: 32px;
+    width: 160px;
+}
+
+p{
+    font-size:48px
+}
+
+label{
+    font-size:24px
+}
+
+button{
+    height: 32px;
+    width: 128px;
+}
+
